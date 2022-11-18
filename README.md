@@ -1,4 +1,1 @@
-[Banner](https://i.imgur.com/5Rpr8DW.png)
-
-## Hey 👋
-
+[Banner](https://github.com/TomokuFR/TomokuFR/blob/main/banni%C3%A8re%20youtube.png)
