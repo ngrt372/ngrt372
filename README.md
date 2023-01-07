@@ -13,4 +13,4 @@ December 2022 | [MalwareDatabase](https://github.com/TomokuFR/MalwaresDatabase) 
 
 Aprox. RL Date | Project Name | Description
 ---------------|--------------|-------------
-Summer 2023 (not sure) | tOS | An "operating system" like macOS working in your web browser. You are the choice for running in your computer or mobile.
+N/A | tOS | An "operating system" like macOS working in your web browser. You are the choice for running in your computer or mobile.
