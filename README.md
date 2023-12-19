@@ -1,1 +1,1 @@
-![banner](/BannerV2,1.png)
+It will be updated soon!
